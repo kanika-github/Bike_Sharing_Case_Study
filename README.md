@@ -24,11 +24,5 @@
 * Driving Conclusions
 
 
-
-## Conclusions
-Please refer to the pdf 
-
-
-
 <!-- Developed as part of the Linear Regression module required for Executive Post Graduate Programme in Machine Learning and Artificial Intelligence - IIIT,Bangalore. -->
 
